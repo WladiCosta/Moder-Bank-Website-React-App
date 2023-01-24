@@ -1,29 +1,23 @@
-import Billing from './Billing'
-import Business from './Business'
-import Button from './Button'
-import CardDeal from './CardDeal'
-import Clients from './Clients'
-import CTA from './CTA'
-import FeedBackCards from './FeedBackCards'
-import Footer from './Footer'
-import GetStarted from './GetStarted'
-import Hero from './Hero'
-import Navbar from './Navbar'
-import Stats from './Stats'
-import Testimonials from './Testimonials'
+import Navbar from "./Navbar";
+import Billing from "./Billing";
+import CardDeal from "./CardDeal";
+import Business from "./Business";
+import Clients from "./Clients";
+import CTA from "./CTA";
+import Stats from "./Stats";
+import Footer from "./Footer";
+import Testimonials from "./Testimonials";
+import Hero from "./Hero";
 
 export {
+  Navbar,
   Billing,
-  Business,
-  Button,
   CardDeal,
+  Business,
   Clients,
   CTA,
-  FeedBackCards,
-  Footer,
-  GetStarted,
-  Hero,
-  Navbar,
   Stats,
-  Testimonials
-}
+  Footer,
+  Testimonials,
+  Hero,
+};
