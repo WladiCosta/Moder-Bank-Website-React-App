@@ -1,4 +1,4 @@
-
+import styles from '../styles'
 
 
 const GetStarted = () => {
